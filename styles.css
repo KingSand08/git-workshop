@@ -22,7 +22,7 @@ code {
   display: flex;
   justify-content: center;
   overflow: hidden;
-  border: 1px solid #ccc;
+  border: 1px solid #000000;
   background-color: #f1f1f1;
 }
 
